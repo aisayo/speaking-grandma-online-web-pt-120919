@@ -1,0 +1,22 @@
+if statements => conditional statements
+
+ - control flow: execute logic based on the condition met 
+ 
+ - if/else statements 
+ 
+ - if (condition) 
+    logic to be executed 
+   elsif (second condition)
+    logic to be executed 
+   elsif (second condition)
+    logic to be executed 
+   else 
+    logic to be execute 
+   end 
+   
+   
+   #speak_to_grandma << means its looking for an instance method 
+   
+   def method_name
+   
+   end 
